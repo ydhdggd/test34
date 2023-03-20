@@ -7,7 +7,7 @@
       "auto-filter",
       "filter",
       "best",
-      "indian",
+      "myanmar",
       "pyrogram",
       "media",
       "search",
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ritheshrkrm/PiroAutoFilterBot",
-    "repository": "https://github.com/ritheshrkrm/PiroAutoFilterBot",
+    "website": "https://github.com/PhoeThar93/PiroAutoFilterBot",
+    "repository": "https://github.com/PhoeThar93/PiroAutoFilterBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
